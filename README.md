@@ -1,2 +1,2 @@
 # DB-Design-
-This is a mock design of the Airbnb Database
+This is a mock design of the Airbnb Database. It contains the design flow using ER diagrams, normalization, and finally creation of tables and PL/SQL.
